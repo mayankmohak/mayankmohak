@@ -52,11 +52,11 @@ I am a <strong>Fast Learner</strong> and <strong>Team Player</strong> and love T
 
 <!-- Connect with me -->
 <h2> Connect with me <img src='./icons/handshake.gif' width="75px"> </h2>
-<a href = 'https://www.linkedin.com/in/mayankmohak'> <img width = '40px' align= 'center' src="./icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/honney_bhardwaj'> <img width = '40px' align= 'center' src="./icons/twitter.svg"/></a>  
-<a href = 'https://mayankmohak.github.io'> <img width = '40px' align= 'center' src="./icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/mayankmohak'> <img width = '40px' align= 'center' src="./icons/github.svg"/></a> 
-<a href = 'https://dev.to/mayankmohak'><img width = "40px" align ='center' src="./icons/dev.png"/></a>
+<a target="_blank" href = 'https://www.linkedin.com/in/mayankmohak'> <img width = '40px' align= 'center' src="./icons/linked-in-alt.svg"/></a> 
+<a target="_blank" href = 'https://twitter.com/mohak_mayank'> <img width = '40px' align= 'center' src="./icons/twitter.svg"/></a>  
+<a target="_blank" href = 'https://mayankmohak.github.io'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/mayankmohak/portfolio/main/public/favicon.png"/></a> 
+<a target="_blank" href = 'https://www.github.com/mayankmohak'> <img width = '40px' align= 'center' src="./icons/github.svg"/></a> 
+<a target="_blank" href = 'https://dev.to/mayankmohak'><img width = "40px" align ='center' src="./icons/dev.png"/></a>
 
 <br>
 <br>
