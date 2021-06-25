@@ -4,17 +4,14 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankmohak.mayankmohak)
  
-  
+ <!-- About me -->
+<h2> About Me 📝 </h2>
+ 
 <samp>I am currently pursuing <strong>Bachelors of Technology</strong> in the field of Computer Science and Engineering at <strong>GIET University</strong>.<br />
 I am skilled in domain of <strong>Web Development</strong>, <strong>Problem Solving</strong> and <strong>Data Structure & Algorithms</strong>.<br />
 I regularly do <strong>Competitive Coding</strong> at <strong><a href="https://www.codechef.com/users/mayankmohak">CodeChef</a></strong> and <strong><a href="http://codeforces.com/profile/mayankmohak">Codeforces</a></strong>. On <strong><a href="https://www.hackerrank.com/mayankmohak">HackerRank</a></strong> completed <strong>C</strong> and <strong>JAVA</strong> language Problem Set.<br />
 I am a <strong>Fast Learner</strong> and <strong>Team Player</strong> and love Team Work.<samp/><br /><br />
 <a target="_blank" href="https://drive.google.com/file/d/1q7ANmeCZXAgt7GbRTl8typxbC_Nt-TeU/view?usp=sharing" rel="noreferrer">RESUME</a>
-
-<br>
-<br>
-<!-- About me -->
-<h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="./icons/git-header.svg" />
 
